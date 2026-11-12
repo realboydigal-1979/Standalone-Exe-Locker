@@ -193,4 +193,4 @@ This repository serves as the official landing page for Standalone EXE Locker. T
 **Get the most recent version of Standalone EXE Locker today!**
 
 ---
-**Last updated:** 2026-11-11 18:55:42 UTC
+**Last updated:** 2026-11-12 01:07:58 UTC
